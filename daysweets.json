@@ -1,1 +1,25 @@
-
+{
+    "sweets": [
+      {
+        "name": "Berry Bliss Cake",
+        "description": "Hi there! Today, we’re going to make a delightful 'Berry Bliss Cake'. First, you’ll want to start by creaming together butter, sugar, and eggs until the mixture is smooth. Then, gently fold in the flour and baking powder, mixing just until combined. Now, it’s time to add the fresh berries – you can use strawberries, raspberries, or blueberries. Pour the batter into a greased baking pan and pop it into a preheated oven at 180°C (350°F) for about 45 minutes. While it bakes, the kitchen will smell wonderful! Once it’s done, let it cool for 20 minutes before slicing and serving. Enjoy your beautiful berry creation!",
+        "time_minutes": 105,
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/1.svg?alt=media&token=c58d43e1-04ef-49af-8a57-07128fc4b0e7",
+        "rating": 4
+      },
+      {
+        "name": "Chocolate Drizzle Delight",
+        "description": "Let's make a rich and indulgent 'Chocolate Drizzle Delight'! Start by melting your favorite dark chocolate in a double boiler until smooth. While it melts, mix together sugar, eggs, and a pinch of salt in a bowl. Slowly pour the melted chocolate into the mixture while stirring constantly. Sift in the flour and fold it in gently until just combined. Pour the batter into a lined baking tray and bake at 170°C (340°F) for about 30 minutes. When it's done, drizzle melted white chocolate over the top for a beautiful finish. Allow it to cool for 10 minutes, then slice and serve!",
+        "time_minutes": 80,
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/2.svg?alt=media&token=c465d58b-2239-4369-8676-cd06f3f05612",
+          "rating": 5
+      },
+      {
+        "name": "Frosted Strawberry Layer",
+        "description": "We’re making a dreamy 'Frosted Strawberry Layer' cake today! Begin by preparing two sponge cakes. In a large bowl, beat together butter, sugar, and eggs until fluffy. Gradually add in flour and baking powder, alternating with milk. Divide the batter evenly between two pans and bake at 180°C (350°F) for 25 minutes. While the cakes are cooling, prepare a strawberry cream by whipping heavy cream, sugar, and finely chopped strawberries. Once the cakes have cooled, spread the strawberry cream between the layers and frost the entire cake with more cream. Decorate with fresh strawberries on top!",
+        "time_minutes": 95,
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/3.svg?alt=media&token=d7eb5f98-6300-4ead-ae62-57484df8d682",
+          "rating": 5
+      },
+    ]
+  }

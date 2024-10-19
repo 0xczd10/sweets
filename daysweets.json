@@ -1,5 +1,4 @@
-{
-  "dailySweets": [
+[
     {
       "name": "Task 1",
       "description": "This is the first task",
@@ -12,5 +11,4 @@
       "time_minutes": 45,
       "image_url": "https://example.com/image2.png"
     }
-  ]
-}
+]

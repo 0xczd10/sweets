@@ -1,14 +1,16 @@
-[
-  {
-    "name": "Task 1",
-    "description": "This is the first task",
-    "time_minutes": 30,
-    "image_url": "https://example.com/image1.png"
-  },
-  {
-    "name": "Task 2",
-    "description": "This is the second task",
-    "time_minutes": 45,
-    "image_url": "https://example.com/image2.png"
-  }
-]
+{
+  "dailySweets": [
+    {
+      "name": "Task 1",
+      "description": "This is the first task",
+      "time_minutes": 30,
+      "image_url": "https://example.com/image1.png"
+    },
+    {
+      "name": "Task 2",
+      "description": "This is the second task",
+      "time_minutes": 45,
+      "image_url": "https://example.com/image2.png"
+    }
+  ]
+}

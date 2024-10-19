@@ -4,37 +4,43 @@
         "name": "Berry Bliss Cake",
         "description": "Hi there! Today, we’re going to make a delightful 'Berry Bliss Cake'. First, you’ll want to start by creaming together butter, sugar, and eggs until the mixture is smooth. Then, gently fold in the flour and baking powder, mixing just until combined. Now, it’s time to add the fresh berries – you can use strawberries, raspberries, or blueberries. Pour the batter into a greased baking pan and pop it into a preheated oven at 180°C (350°F) for about 45 minutes. While it bakes, the kitchen will smell wonderful! Once it’s done, let it cool for 20 minutes before slicing and serving. Enjoy your beautiful berry creation!",
         "time_minutes": 105,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/1.svg?alt=media&token=c58d43e1-04ef-49af-8a57-07128fc4b0e7"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/1.svg?alt=media&token=c58d43e1-04ef-49af-8a57-07128fc4b0e7",
+        "rating": 4
       },
       {
         "name": "Chocolate Drizzle Delight",
         "description": "Let's make a rich and indulgent 'Chocolate Drizzle Delight'! Start by melting your favorite dark chocolate in a double boiler until smooth. While it melts, mix together sugar, eggs, and a pinch of salt in a bowl. Slowly pour the melted chocolate into the mixture while stirring constantly. Sift in the flour and fold it in gently until just combined. Pour the batter into a lined baking tray and bake at 170°C (340°F) for about 30 minutes. When it's done, drizzle melted white chocolate over the top for a beautiful finish. Allow it to cool for 10 minutes, then slice and serve!",
         "time_minutes": 80,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/2.svg?alt=media&token=c465d58b-2239-4369-8676-cd06f3f05612"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/2.svg?alt=media&token=c465d58b-2239-4369-8676-cd06f3f05612",
+          "rating": 5
       },
       {
         "name": "Frosted Strawberry Layer",
         "description": "We’re making a dreamy 'Frosted Strawberry Layer' cake today! Begin by preparing two sponge cakes. In a large bowl, beat together butter, sugar, and eggs until fluffy. Gradually add in flour and baking powder, alternating with milk. Divide the batter evenly between two pans and bake at 180°C (350°F) for 25 minutes. While the cakes are cooling, prepare a strawberry cream by whipping heavy cream, sugar, and finely chopped strawberries. Once the cakes have cooled, spread the strawberry cream between the layers and frost the entire cake with more cream. Decorate with fresh strawberries on top!",
         "time_minutes": 95,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/3.svg?alt=media&token=d7eb5f98-6300-4ead-ae62-57484df8d682"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/3.svg?alt=media&token=d7eb5f98-6300-4ead-ae62-57484df8d682",
+          "rating": 5
       },
       {
         "name": "Creamy Caramel Cups",
         "description": "Today, we’re making smooth and creamy 'Creamy Caramel Cups'! Start by melting sugar in a saucepan over medium heat until it turns a deep amber color. Carefully add in butter and heavy cream, stirring constantly to make a rich caramel. Set aside to cool slightly. Next, mix together softened cream cheese and sugar until smooth. Pour the caramel over the cream cheese mixture and stir until combined. Spoon this filling into small tart shells and refrigerate for at least 30 minutes. Once they’ve set, sprinkle a little sea salt on top for a perfect sweet and salty treat!",
         "time_minutes": 70,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/4.svg?alt=media&token=a0426a69-0c29-48cb-ac80-8bfb990c5514"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/4.svg?alt=media&token=a0426a69-0c29-48cb-ac80-8bfb990c5514",
+          "rating": 2
       },
       {
         "name": "Lemon Meringue Tart",
         "description": "Ready for a zesty treat? Let’s make a 'Lemon Meringue Tart'! First, prepare a simple tart crust by mixing butter, flour, and sugar, then press it into a tart pan and bake until golden. While the crust cools, make the lemon curd by whisking together lemon juice, sugar, eggs, and butter in a saucepan over medium heat. Cook until thickened, then pour into the crust. Now, for the meringue: whip egg whites and sugar until stiff peaks form, then spread over the lemon curd. Bake the tart for an additional 10 minutes to toast the meringue. Let it cool before serving!",
         "time_minutes": 85,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/5.svg?alt=media&token=5cb29f2b-0405-4949-81e4-3db8c55099d5"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/5.svg?alt=media&token=5cb29f2b-0405-4949-81e4-3db8c55099d5",
+          "rating": 3
       }, 
           {
         "name": "Peanut Butter Brownie Bites",
         "description": "Let’s make 'Peanut Butter Brownie Bites'! Start by melting dark chocolate and butter in a saucepan. In a separate bowl, whisk together eggs and sugar until light and fluffy. Gradually mix in the melted chocolate. Fold in some flour, cocoa powder, and a pinch of salt. Pour half of the batter into mini muffin tins. Add a spoonful of peanut butter to the center of each, then top with the remaining brownie batter. Bake at 180°C (350°F) for 20 minutes. Let them cool before serving to enjoy their gooey peanut butter center!",
         "time_minutes": 60,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/peanut-butter-brownie-bites.svg?alt=media&token=a653c392-b7d7-4e7f-8294-d6cf3b0a164c"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/peanut-butter-brownie-bites.svg?alt=media&token=a653c392-b7d7-4e7f-8294-d6cf3b0a164c",
+              "rating": 3
       },
   
   
@@ -44,145 +50,169 @@
         "name": "Raspberry Chocolate Torte",
         "description": "For this rich 'Raspberry Chocolate Torte', start by melting dark chocolate and butter in a double boiler. While it melts, beat eggs and sugar in a separate bowl until they double in volume. Fold the melted chocolate into the egg mixture, then gently stir in flour. Pour the batter into a springform pan and bake at 160°C (320°F) for 40 minutes. Once the torte is cool, spread raspberry jam on top and dust with powdered sugar. Serve with fresh raspberries for an elegant finish!",
         "time_minutes": 90,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/raspberry-chocolate-torte.svg?alt=media&token=1d300d89-b29b-47cf-bffe-8daf9331e259"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/raspberry-chocolate-torte.svg?alt=media&token=1d300d89-b29b-47cf-bffe-8daf9331e259",
+          "rating": 5
       },
       {
         "name": "Vanilla Bean Macarons",
         "description": "Macarons can be tricky, but we’ll make it easy with these 'Vanilla Bean Macarons'. Start by sifting almond flour and powdered sugar together. In a separate bowl, whip egg whites until soft peaks form, then gradually add granulated sugar and vanilla extract. Fold the dry ingredients into the egg whites carefully, then pipe small circles of the mixture onto a baking sheet. Let them sit for about 30 minutes to form a skin. Bake at 150°C (300°F) for 15 minutes. Once cooled, sandwich them together with vanilla buttercream.",
         "time_minutes": 120,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/vanilla-bean-macarons.svg?alt=media&token=b3f6179f-f44f-4c77-b5db-177aa81b9a1e"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/vanilla-bean-macarons.svg?alt=media&token=b3f6179f-f44f-4c77-b5db-177aa81b9a1e",
+          "rating": 4
       },
       {
         "name": "Mango Coconut Pudding",
         "description": "To make this tropical 'Mango Coconut Pudding', start by blending fresh mangoes until smooth. In a saucepan, heat coconut milk, sugar, and a pinch of salt. Slowly whisk in cornstarch to thicken the mixture. Once thickened, remove from heat and stir in the mango puree. Pour the pudding into individual serving glasses and chill for at least 1 hour. Top with shredded coconut and fresh mango slices before serving.",
         "time_minutes": 75,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/mango-coconut-pudding.svg?alt=media&token=cfa6770e-aa4f-4ca3-bc79-fbe2457b7bf7"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/mango-coconut-pudding.svg?alt=media&token=cfa6770e-aa4f-4ca3-bc79-fbe2457b7bf7",
+          "rating": 4
       },
       {
         "name": "Caramel Apple Tart",
         "description": "For a delicious 'Caramel Apple Tart', start by making a buttery crust from flour, sugar, and cold butter. Roll out the dough and press it into a tart pan, then refrigerate while you prepare the filling. Peel and slice apples thinly, then toss them in cinnamon and sugar. Arrange the apples in the crust and bake at 180°C (350°F) for 30 minutes. While it bakes, make a quick caramel sauce by heating sugar until golden, then stirring in butter and cream. Drizzle the caramel over the tart before serving.",
         "time_minutes": 90,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/caramel-apple-tart.svg?alt=media&token=b95551e2-03b7-4887-8f53-6e498d1bf024"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/caramel-apple-tart.svg?alt=media&token=b95551e2-03b7-4887-8f53-6e498d1bf024",
+          "rating": 3
       },
       {
         "name": "Chocolate Eclairs",
         "description": "These 'Chocolate Eclairs' start with a classic choux pastry. Boil water, butter, and salt in a saucepan, then stir in flour until the dough forms a ball. Let it cool slightly, then beat in eggs one at a time. Pipe the dough into long strips on a baking sheet and bake at 200°C (400°F) for 25 minutes. Once cooled, fill them with pastry cream and dip the tops in melted chocolate.",
         "time_minutes": 95,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/chocolate-eclairs.svg?alt=media&token=0bb019bb-ab2b-4945-a08a-1964e9bf534d"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/chocolate-eclairs.svg?alt=media&token=0bb019bb-ab2b-4945-a08a-1964e9bf534d",
+          "rating": 5
       },
       {
         "name": "Blueberry Lemon Bars",
         "description": "For these refreshing 'Blueberry Lemon Bars', start by making a shortbread crust with flour, butter, and sugar. Press it into a baking dish and bake until golden. Meanwhile, mix together eggs, sugar, lemon juice, and a bit of flour for the filling. Fold in fresh blueberries, then pour the filling over the baked crust. Bake for another 20 minutes, then cool and dust with powdered sugar.",
         "time_minutes": 70,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/blueberry-lemon-bars.svg?alt=media&token=5d46bf19-8be3-42b7-aacf-4192f4547ee6"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/blueberry-lemon-bars.svg?alt=media&token=5d46bf19-8be3-42b7-aacf-4192f4547ee6",
+          "rating": 2
       },
       {
         "name": "Coconut Lime Cheesecake",
         "description": "To make a 'Coconut Lime Cheesecake', start by making a graham cracker crust with crushed graham crackers, melted butter, and sugar. Press it into the bottom of a springform pan and bake for 10 minutes. For the filling, beat together cream cheese, sugar, and lime zest until smooth. Add eggs one at a time, then stir in coconut milk and lime juice. Pour the filling over the crust and bake at 160°C (320°F) for 50 minutes. Let it cool completely before serving.",
         "time_minutes": 100,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/coconut-lime-cheesecake.svg?alt=media&token=582a7814-2d25-4497-8616-71b187738de7"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/coconut-lime-cheesecake.svg?alt=media&token=582a7814-2d25-4497-8616-71b187738de7",
+          "rating": 3
       },
       {
         "name": "Pumpkin Spice Cupcakes",
         "description": "For these seasonal 'Pumpkin Spice Cupcakes', start by mixing together flour, sugar, baking powder, and a blend of spices like cinnamon, nutmeg, and ginger. In a separate bowl, whisk together pumpkin puree, eggs, and oil. Combine the wet and dry ingredients, then pour the batter into cupcake liners and bake at 180°C (350°F) for 20 minutes. Top with cream cheese frosting and a sprinkle of cinnamon.",
         "time_minutes": 60,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/pumpkin-spice-cupcakes.svg?alt=media&token=8161c5ec-9b11-4292-91b4-1ef6a459fc9d"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/pumpkin-spice-cupcakes.svg?alt=media&token=8161c5ec-9b11-4292-91b4-1ef6a459fc9d",
+          "rating": 3
       },
       {
         "name": "Mocha Layer Cake",
         "description": "This 'Mocha Layer Cake' is perfect for coffee lovers. Start by making a chocolate sponge cake by creaming butter, sugar, and eggs, then alternating adding flour and coffee. Bake the cakes at 180°C (350°F) for 25 minutes. For the frosting, beat together butter, powdered sugar, cocoa powder, and espresso. Once the cakes have cooled, stack and frost each layer. Top with chocolate shavings and serve with a cup of coffee!",
         "time_minutes": 120,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/mocha-layer-cake.svg?alt=media&token=9972481e-a99f-4cf2-b4e8-24bb2c015ff7"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/mocha-layer-cake.svg?alt=media&token=9972481e-a99f-4cf2-b4e8-24bb2c015ff7",
+          "rating": 3
       },
       {
         "name": "Peach Cobbler",
         "description": "For a sweet and simple 'Peach Cobbler', start by peeling and slicing fresh peaches. Toss them in sugar, cinnamon, and lemon juice. In a separate bowl, mix together flour, sugar, baking powder, and milk to make the batter. Pour the batter into a baking dish, then spoon the peaches on top. Bake at 180°C (350°F) for 45 minutes until the top is golden and bubbly.",
         "time_minutes": 75,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/peach-cobbler.svg?alt=media&token=1d3cf666-4287-4364-b43c-554bc6425640"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/peach-cobbler.svg?alt=media&token=1d3cf666-4287-4364-b43c-554bc6425640",
+          "rating": 5
       },
       {
         "name": "Tiramisu",
         "description": "To make this classic 'Tiramisu', start by brewing strong coffee and letting it cool. In a bowl, beat together egg yolks and sugar until pale and creamy. Add mascarpone cheese and mix until smooth. In a separate bowl, whip heavy cream until stiff peaks form, then fold it into the mascarpone mixture. Dip ladyfingers in the coffee and layer them in a dish, alternating with the mascarpone cream. Dust with cocoa powder and refrigerate for at least 4 hours before serving.",
         "time_minutes": 180,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/tiramisu.svg?alt=media&token=ec8016b4-ca8c-4460-b66c-4149fb101a06"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/tiramisu.svg?alt=media&token=ec8016b4-ca8c-4460-b66c-4149fb101a06",
+          "rating": 4
       },
       {
         "name": "Orange Cream Puffs",
         "description": "These 'Orange Cream Puffs' are a fun twist on a classic dessert. Start by making choux pastry: boil water, butter, and sugar, then stir in flour. Once the dough forms, remove it from the heat and mix in eggs one at a time. Pipe small rounds onto a baking sheet and bake at 200°C (400°F) for 20 minutes. For the filling, whip cream and orange zest together with sugar. Once the puffs have cooled, fill them with the orange cream and dust with powdered sugar.",
         "time_minutes": 90,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/orange-cream-puffs.svg?alt=media&token=f6caad64-f577-4153-8f63-30e966c2a408"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/orange-cream-puffs.svg?alt=media&token=f6caad64-f577-4153-8f63-30e966c2a408",
+          "rating": 4
       },
       {
         "name": "Strawberry Cheesecake",
         "description": "For a classic 'Strawberry Cheesecake', start with a graham cracker crust. Mix together crushed graham crackers, sugar, and melted butter, then press into a springform pan. Bake at 160°C (320°F) for 10 minutes. For the filling, beat cream cheese, sugar, and vanilla until smooth. Add eggs one at a time, then pour the filling into the crust. Bake for 50 minutes. Once cooled, top with fresh strawberries and a drizzle of strawberry sauce.",
         "time_minutes": 100,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/strawberry-cheesecake.svg?alt=media&token=82975fc9-82d2-4eba-bb26-faf4b3314776"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/strawberry-cheesecake.svg?alt=media&token=82975fc9-82d2-4eba-bb26-faf4b3314776",
+          "rating": 1
       },
       {
         "name": "Mint Chocolate Truffles",
         "description": "For these decadent 'Mint Chocolate Truffles', start by heating heavy cream and butter in a saucepan. Pour the hot cream over chopped dark chocolate and let it sit for a few minutes, then stir until smooth. Add a few drops of mint extract, then refrigerate the mixture for about an hour. Once firm, roll the chocolate into small balls and coat with cocoa powder or melted chocolate. Let them set in the fridge for another 30 minutes before serving.",
         "time_minutes": 90,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/mint-chocolate-truffles.svg?alt=media&token=10d4a3bf-50cc-42c0-b923-b9900d942514"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/mint-chocolate-truffles.svg?alt=media&token=10d4a3bf-50cc-42c0-b923-b9900d942514",
+          "rating": 5
       },
       {
         "name": "Banana Bread",
         "description": "For moist and delicious 'Banana Bread', start by mashing ripe bananas in a bowl. Mix in melted butter, sugar, eggs, and vanilla. In a separate bowl, whisk together flour, baking soda, and a pinch of salt. Gradually mix the dry ingredients into the banana mixture until just combined. Pour the batter into a loaf pan and bake at 175°C (350°F) for 60 minutes. Let it cool slightly before slicing and enjoying with a cup of tea.",
         "time_minutes": 80,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/banana-bread.svg?alt=media&token=9ce94541-a50b-4dd9-b0f2-ce831c348e5b"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/banana-bread.svg?alt=media&token=9ce94541-a50b-4dd9-b0f2-ce831c348e5b",
+          "rating": 4
       },
       {
         "name": "Chocolate Chip Cookies",
         "description": "To make the perfect 'Chocolate Chip Cookies', start by creaming together butter and sugar until light and fluffy. Add eggs and vanilla, then gradually mix in the dry ingredients: flour, baking soda, and a pinch of salt. Stir in chocolate chips until evenly distributed. Drop spoonfuls of dough onto a baking sheet and bake at 180°C (350°F) for 10 minutes. Let them cool for a few minutes before enjoying!",
         "time_minutes": 40,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/chocolate-chip-cookies.svg?alt=media&token=3039ced3-821b-45fc-8e3e-3188f0a46132"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/chocolate-chip-cookies.svg?alt=media&token=3039ced3-821b-45fc-8e3e-3188f0a46132",
+          "rating": 5
       },
       {
         "name": "Cinnamon Sugar Donuts",
         "description": "For these delicious 'Cinnamon Sugar Donuts', start by making a simple yeast dough with flour, sugar, yeast, and milk. Let the dough rise for about an hour, then roll it out and cut into donut shapes. Fry the donuts in hot oil until golden brown, then drain on paper towels. While they’re still warm, roll the donuts in a mixture of cinnamon and sugar. Enjoy these warm with a cup of coffee!",
         "time_minutes": 75,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/cinnamon-sugar-donuts.svg?alt=media&token=ada86b08-29a0-4a1e-88b6-ed221fcf03a3"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/cinnamon-sugar-donuts.svg?alt=media&token=ada86b08-29a0-4a1e-88b6-ed221fcf03a3",
+          "rating": 5
       },
       {
         "name": "Lemon Blueberry Muffins",
         "description": "These 'Lemon Blueberry Muffins' are a delightful treat. Start by whisking together flour, sugar, baking powder, and a pinch of salt. In a separate bowl, mix together milk, eggs, melted butter, and lemon zest. Combine the wet and dry ingredients, then gently fold in fresh blueberries. Spoon the batter into muffin tins and bake at 180°C (350°F) for 25 minutes. Let them cool slightly, then enjoy with a drizzle of lemon glaze.",
         "time_minutes": 60,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/lemon-blueberry-muffins.svg?alt=media&token=e8f210d8-15c3-4bcf-b11d-90b05bc1b503"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/lemon-blueberry-muffins.svg?alt=media&token=e8f210d8-15c3-4bcf-b11d-90b05bc1b503",
+          "rating": 3
       },
       {
         "name": "Carrot Cake",
         "description": "For a moist and flavorful 'Carrot Cake', start by grating fresh carrots. In a large bowl, mix together sugar, oil, and eggs. Gradually add flour, baking powder, and cinnamon. Stir in the grated carrots and chopped walnuts. Pour the batter into a greased baking pan and bake at 175°C (350°F) for 50 minutes. Once cooled, top with cream cheese frosting and a sprinkle of cinnamon.",
         "time_minutes": 90,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/carrot-cake.svg?alt=media&token=8acbe83e-8947-425d-ae59-b415da5b7aa2"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/carrot-cake.svg?alt=media&token=8acbe83e-8947-425d-ae59-b415da5b7aa2",
+          "rating": 3
       },
           {
         "name": "Caramel Toffee Bites",
         "description": "Let's make 'Caramel Toffee Bites'! Start by heating sugar and butter in a saucepan over medium heat until the mixture turns golden brown. Stir constantly to avoid burning. Once it reaches a smooth consistency, pour the toffee mixture into a buttered pan and let it cool. After the toffee hardens, cut it into small bite-sized pieces. You can wrap them in wax paper or enjoy them as-is for a perfect caramel treat.",
         "time_minutes": 45,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/caramel-toffee-bites%20(1)%201.svg?alt=media&token=5012f9e7-855e-467b-aca4-d2ed102d7b49"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/caramel-toffee-bites%20(1)%201.svg?alt=media&token=5012f9e7-855e-467b-aca4-d2ed102d7b49",
+              "rating": 2
       },
       {
         "name": "Rainbow Lollipops",
         "description": "For these fun 'Rainbow Lollipops', start by melting sugar, water, and corn syrup in a saucepan over medium heat until it reaches 150°C (300°F), the hard crack stage. Once the mixture reaches the right temperature, divide it into separate bowls and add different food coloring to each one. Swirl the colors together carefully and pour the mixture into lollipop molds. Insert sticks and let them harden. These colorful lollipops are perfect for any candy lover!",
         "time_minutes": 60,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/rainbow-lollipops.svg?alt=media&token=17a67f56-7b6e-4818-a0bd-a74449361a0d"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/rainbow-lollipops.svg?alt=media&token=17a67f56-7b6e-4818-a0bd-a74449361a0d",
+          "rating": 5
       },
       {
         "name": "Chewy Caramel Candies",
         "description": "For delicious 'Chewy Caramel Candies', start by heating sugar, butter, and heavy cream in a saucepan. Stir constantly until the caramel reaches a golden brown color and a thick consistency. Pour the caramel into a greased pan and let it cool. Once it's firm, cut it into small squares and wrap them individually in wax paper. These soft and chewy caramels are perfect for snacking or sharing!",
         "time_minutes": 50,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/chewy-caramel-candies.svg?alt=media&token=46ad9282-b95e-4456-ae2e-3638af295844"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/chewy-caramel-candies.svg?alt=media&token=46ad9282-b95e-4456-ae2e-3638af295844",
+          "rating": 3
       },
       {
         "name": "Chocolate-Coated Chupa Chups",
         "description": "Let's create 'Chocolate-Coated Chupa Chups' with a twist! Start by melting milk chocolate in a double boiler. Dip your favorite fruit-flavored Chupa Chups lollipops into the melted chocolate, making sure to cover them completely. Before the chocolate sets, sprinkle some crushed nuts, coconut flakes, or rainbow sprinkles over the top for extra flavor and texture. Place the lollipops in the fridge to set the chocolate before serving.",
         "time_minutes": 30,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/chocolate-coated-chupa-chups.svg?alt=media&token=542fe385-00d3-49fe-9222-60072fef2606"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/chocolate-coated-chupa-chups.svg?alt=media&token=542fe385-00d3-49fe-9222-60072fef2606",
+          "rating": 4
       },
       {
         "name": "Peppermint Candy Canes",
         "description": "For homemade 'Peppermint Candy Canes', start by heating sugar, water, and corn syrup in a saucepan until the mixture reaches 150°C (300°F). Remove from the heat and add peppermint extract. Divide the mixture in half and color one half red. Roll both the white and red candy into long strips, then twist them together to form the iconic candy cane shape. Allow the candy to cool and harden before enjoying!",
         "time_minutes": 90,
-        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/peppermint-candy-canes.svg?alt=media&token=fe3ba969-5a06-46a9-8566-7a9b8dbf4cf8"
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/chinese-fortune-tiger.appspot.com/o/peppermint-candy-canes.svg?alt=media&token=fe3ba969-5a06-46a9-8566-7a9b8dbf4cf8",
+          "rating": 4
       }
     ]
   }
